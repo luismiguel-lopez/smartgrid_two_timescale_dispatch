@@ -1,0 +1,2 @@
+test_stoch_solver_avg;
+evaluate_results_avg;
