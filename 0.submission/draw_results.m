@@ -44,4 +44,4 @@ plot(avg_cost,'g');
 title ('Expected operation cost', 'interpreter', 'latex')
 ylabel ('Cost (\$/h)', 'interpreter', 'latex')
 
-ajustar_ejes
+adjust_axes

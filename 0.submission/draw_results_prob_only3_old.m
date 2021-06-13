@@ -54,4 +54,4 @@ for i = 1:3,
     grid on
 end
 
-%ajustar_ejes2
+%adjust_axes_v2

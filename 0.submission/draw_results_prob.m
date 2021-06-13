@@ -62,4 +62,4 @@ for i = 1:6,
     grid on
 end
 
-ajustar_ejes2
+adjust_axes_v2
