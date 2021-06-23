@@ -1,2 +1,5 @@
-test_stoch_solver;
-evaluate_results;
+%% Average dispatch experiment
+main_avg
+
+%% Probabilistic dispatch experiment
+main_prob
